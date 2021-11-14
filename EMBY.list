@@ -27,7 +27,3 @@ DOMAIN-SUFFIX,emby-cf.plusmedia.site
 DOMAIN-SUFFIX,emby.xeton.dev 
 DOMAIN-SUFFIX,jellyfin.xeton.dev 
 DOMAIN-SUFFIX,movie.xeton.dev
-
-# prprcloud
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,prpr.kyarucloud.moe
