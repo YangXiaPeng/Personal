@@ -28,7 +28,7 @@ http://112.25.47.24/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="央视",CCTV12-社会与法
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="央视",CCTV13-新闻
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://112.25.47.24/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="央视",CCTV14-少儿
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="央视",CCTV15-音乐
@@ -80,7 +80,7 @@ http://39.135.138.60:18890/TVOD/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="卫视",甘肃卫视
 http://39.136.48.26:8089/PLTV/88888888/224/3221226387/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="卫视",广西卫视
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+http://111.63.117.13:6060/030000001000/GXWS/GXWS.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="卫视",贵州卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="卫视",河北卫视
